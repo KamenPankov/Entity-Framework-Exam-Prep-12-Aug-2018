@@ -1,0 +1,10 @@
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Kamen\Box\Books\Programming\SoftUni\Databases Advanced - Entity Framework\Exam Preparation\04 12-Aug-2018\SoftJail1\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
